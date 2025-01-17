@@ -4,7 +4,7 @@
 
 Criar um projeto inteiramente com o uso do display flex.
 
-## Referência dos emotes:
+## Referência:
 
-- :package: para adicionar um pacote 
-- 
+Curso de FlexBox da Origamid.
+
